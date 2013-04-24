@@ -36,6 +36,7 @@ By default, holder.js will add inline styles to specify the height and width of 
 
 ```html
 [image-placeholder auto="true"]
+```
 
 ###Only return the URL
 If you want to use the placeholder in your own ``<img>`` tag or as a background style, for example:
