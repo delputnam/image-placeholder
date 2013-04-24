@@ -6,7 +6,8 @@ Description: Provides a shortcode that is replaced with a placeholder image usin
 Version: 1.0
 Author: Del Putnam
 Author URI: http://www.delputnam.com
-License: GPLv2
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 class image_placeholder_shortcode {
