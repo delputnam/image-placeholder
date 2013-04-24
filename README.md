@@ -74,4 +74,4 @@ The Image Placeholder plugin is provided under the [Apache 2.0 License](http://w
 Credits
 -------
 [Holder](https://github.com/imsky/holder) is a project by [Ivan Malopinsky](http://imsky.co).
-[Image Placeholder] is a simple WordPress plugin by [Del Putnam](http://delputnam.com).
+[Image Placeholder](https://github.com/delputnam/image-placeholder) is a simple WordPress plugin by [Del Putnam](http://delputnam.com).
