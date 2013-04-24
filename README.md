@@ -69,7 +69,7 @@ There are a lot of [other options for customizing themes](https://github.com/ims
 License
 -------
 
-The Image Placeholder plugin is provided under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
+The Image Placeholder plugin is provided under the [GPLv2 or later license](http://www.gnu.org/licenses/gpl-2.0.html).
 
 Credits
 -------
