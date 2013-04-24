@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A WordPress plugin that provides a shortcode  to generate placeholder image using [holder.js](https://github.com/imsky/holder).
+A WordPress plugin that provides a shortcode to generate placeholder image using [holder.js](https://github.com/imsky/holder).
 
 == Description ==
 
